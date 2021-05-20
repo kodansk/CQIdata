@@ -1,4 +1,4 @@
-# Customer Qaulity Index Data Modelling
+# Customer Quality Index Data Modelling
 
 ## Customer Quality index processed on customer network data 
 
